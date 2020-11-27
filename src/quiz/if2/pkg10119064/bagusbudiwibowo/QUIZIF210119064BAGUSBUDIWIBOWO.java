@@ -12,6 +12,10 @@ import model.ServicePrice;
 /**
  *
  * @author Bagus_24
+ * NAMA         : Bagus Budi Wibowo
+ * KELAS        : PBOIF2 
+ * NIM          : 10119064 
+ * Deskripsi Program : Program Customer Service
  */
 public class QUIZIF210119064BAGUSBUDIWIBOWO {
 
